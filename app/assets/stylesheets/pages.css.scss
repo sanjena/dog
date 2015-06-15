@@ -1,0 +1,21 @@
+.main
+{
+ background:url(http://s3.amazonaws.com/codecademy-blog/assets/puppy-2_zps1539e6b2.jpg);
+background-size: cover;
+height:800px;
+}
+.nav 
+{ list-style-type:none; 
+margin:0; 
+padding:20px; 
+} 
+.nav li
+{ 
+color:blue;
+display:inline; 
+font-family:'Raleway', sans-serif; 
+font-weight:600; 
+font-size:12px; 
+margin-right:25px; 
+text-transform:uppercase;
+}
